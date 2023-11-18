@@ -2,7 +2,7 @@
 ## You Can Make The Difference 💪
 
 <p align="center">
-  <img src="./CSCClubLargeLogo.svg" alt="CSCC logo" style="width: 75%; text-align: center; background-color: red" />
+  <img src="https://raw.githubusercontent.com/cscc-usdb/.github/main/profile/CSCClubLargeLogo.svg" alt="CSCC logo" style="width: 75%; text-align: center; background-color: red" />
 </p>
 
 <hr/>
