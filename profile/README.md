@@ -115,5 +115,5 @@ Please ensure to follow our code of conduct while contributing.
 
 <br/><br/>
 
-## Members And Contributors
-A big thank you to all our members and contributors who have dedicated their time and effort to make this community thrive. See the list of contributors.
+## Members And Collaborators
+A big thank you to all our members and collaborators who have dedicated their time and effort to make this community thrive. See the list of [collaborators](https://github.com/orgs/cscc-usdb/outside-collaborators?page=1).
