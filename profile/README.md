@@ -33,13 +33,28 @@
 
 <div style="display: flex; align-items: center;">
   <div style="flex: 1;">
-    The Computer Science Community Club is the first scientific club in Blida, Algeria since 2012 . CSCC is led by a team of geeks with a track motivation of building a high quality of developers in students community, we invest our time to create projects and ideas that make the university experience unique and beneficial. We’re here because we love what we do. Our passion lies in helping students who are interested in computer science through organizing non-profit activities ( events , trainings , workshops) , our mission is to usher the next wave of the new digital advanced Algeria.
+    
   </div>
   
   <div style="flex: 1;">
-    <img src="image-url.jpg" alt="Image" style="max-width: 100%;">
+    
   </div>
 </div>
+
+<div align="center">
+  <table>
+    <tr>
+      <td width="50%">
+        The Computer Science Community Club is the first scientific club in Blida, Algeria since 2012 . CSCC is led by a team of geeks with a track motivation of building a high quality of developers in students community, we invest our time to create projects and ideas that make the university experience unique and beneficial. We’re here because we love what we do. Our passion lies in helping students who are interested in computer science through organizing non-profit activities ( events , trainings , workshops) , our mission is to usher the next wave of the new digital advanced Algeria.
+      </td>
+      <td width="50%">
+        <img src="https://raw.githubusercontent.com/cscc-usdb/.github/main/profile/CSCCFamily.jpg" alt="CSCC Family" style="max-width: 50%;">
+      </td>
+    </tr>
+  </table>
+</div>
+
+
 
 
 
